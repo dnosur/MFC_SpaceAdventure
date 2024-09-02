@@ -1,0 +1,6 @@
+#pragma once
+
+#define BACKGROUND_COLOR RGB(10, 10, 30)
+#define ASTEROID_COLOR RGB(169, 169, 169)
+#define BULLET_COLOR RGB(255, 255, 0)
+#define SHIP_COLOR RGB(0, 0, 255)
